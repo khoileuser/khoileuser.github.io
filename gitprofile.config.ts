@@ -94,7 +94,7 @@ const CONFIG = {
     'Oracle',
     'Vercel',
 
-    'Anaconda'
+    'Anaconda',
     'Bootstrap',
     'Context-API',
     'Django',
